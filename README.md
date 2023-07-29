@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&amp;logo=microsoft-office&amp;logoColor=white" data-origin="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&amp;logo=microsoft-office&amp;logoColor=white" alt="Microsoft Office">
 </p>
 
-<h2>OS </h2>
+<h2>OS <img src="https://th.bing.com/th/id/R.9b0d94e52034351fb7f3ccb88dcc218d?rik=O1vqUmCn2VanSQ&riu=http%3a%2f%2f25.media.tumblr.com%2f6d51c0a92b7d6016025f349a19e48ef2%2ftumblr_mlyf3pLg8x1r03eaxo1_1280.gif&ehk=asm1slO95Py9P7RXbMVqKSdE9oPVZVoXGmnesv9E478%3d&risl=&pid=ImgRaw&r=0"></h2>
 <p>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" data-origin="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" data-origin="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows">
