@@ -1,21 +1,13 @@
 ### Hi there 👋
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="21px"> </h2>
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white">
-</a>
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&amp;logo=html&amp;logoColor=white">
-</a>
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white">
-</a>
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white">
-</a>
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white">
-</a>
+<p>
+    <img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" data-origin="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" alt="C">
+    <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" data-origin="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" alt="HTML5">
+    <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&amp;logo=CSS3" data-origin="https://img.shields.io/badge/-CSS3-000000?style=flat&amp;logo=CSS3" alt="CSS3">
+    <img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=Java&amp;logoColor=007396" data-origin="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=Java&amp;logoColor=007396" alt="Java">
+    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" data-origin="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-SQL-000000?style=flat&amp;logo=MySQL" data-origin="https://img.shields.io/badge/-SQL-000000?style=flat&amp;logo=MySQL" alt="SQL">
 
 
 <p align="center">
