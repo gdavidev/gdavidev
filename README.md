@@ -5,7 +5,7 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white">
 </a>
 <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Html-ED8B00?style=for-the-badge&amp;logo=html&amp;logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&amp;logo=html&amp;logoColor=white">
 </a>
 <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white">
