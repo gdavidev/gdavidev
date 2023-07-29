@@ -1,4 +1,7 @@
 <h2>About me <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="21px"></h2>
+<p>
+    I’m a Brazilian college student on programming, committed on seeking opportunities in software, web or mobile development, both front and back-end. My goal is to put in practice mine knowledge acquired and develop intelligent solutions aiming on effectiveness, agility and consistency, delivering the best of my capabilities.
+</p>
 
 <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="21px"> </h2>
 <p>
