@@ -2,7 +2,7 @@
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="21px"> </h2>
 <p>
-    <img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" alt="C">
+    <img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" data-origin="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" alt="C">
     <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" data-origin="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&amp;logo=CSS3" data-origin="https://img.shields.io/badge/-CSS3-000000?style=flat&amp;logo=CSS3;logoColor=2857d4" alt="CSS3">
     <img src="https://img.shields.io/badge/-SASS-000000?style=flat&amp;logo=SASS" data-origin="https://img.shields.io/badge/-SASS-000000?style=flat&amp;logo=SASS" alt="SASS">
