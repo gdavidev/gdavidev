@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/gdavidev/">
-    <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=gdavidev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true">
+    <img width="46.5%" src="https://github-readme-stats.vercel.app/api?username=gdavidev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true">
     <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdavidev&amp;langs_count=6&amp;theme=tokyonight&amp;layout=compact&amp;hide_border=true" alt="david :: overall Top Langs "></a>
 </p>
 
