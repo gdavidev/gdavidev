@@ -4,7 +4,7 @@
 <p>
     <img src="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" data-origin="https://img.shields.io/badge/-C-000000?style=flat&amp;logo=C" alt="C">
     <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" data-origin="https://img.shields.io/badge/-HTML5-000000?style=flat&amp;logo=HTML5" alt="HTML5">
-    <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&amp;logo=CSS3" data-origin="https://img.shields.io/badge/-CSS3-000000?style=flat&amp;logo=CSS3" alt="CSS3">
+    <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&amp;logo=CSS3" data-origin="https://img.shields.io/badge/-CSS3-000000?style=flat&amp;logo=CSS3,logoColor=2857d4" alt="CSS3">
     <img src="https://img.shields.io/badge/-SASS-000000?style=flat&amp;logo=SASS" data-origin="https://img.shields.io/badge/-SASS-000000?style=flat&amp;logo=SASS" alt="SASS">
     <img src="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=Java&amp;logoColor=007396" data-origin="https://img.shields.io/badge/-Java-000000?style=flat&amp;logo=Java&amp;logoColor=007396" alt="Java">
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" data-origin="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
@@ -18,10 +18,10 @@
 </p>
 
 <div>
-    <h2 align="center">You can reach me by:</h2>
+    <h2>You can reach me by:</h2>
     <p align="center">
-    <a href="https://www.linkedin.com/in/gdavidev/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="azzar" height="30"></a>
-    <a href="mailto:gdavid.wk2202@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="azzar" height="30"></a>
-    <a href="https://www.instagram.com/gabriel.david.david/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="azzar" height="30"></a>
+        <a href="https://www.linkedin.com/in/gdavidev/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="david" height="30"></a>
+        <a href="mailto:gdavid.wk2202@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="azzar" height="30"></a>
+        <a href="https://www.instagram.com/gabriel.david.david/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="david" height="30"></a>
     </p>
 </div>
