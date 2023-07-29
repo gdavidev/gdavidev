@@ -18,7 +18,7 @@
 </p>
 
 
-<h2>Statistics <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"></h2>
+<h2>Statistics <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="21px" alt="Git"></h2>
 <p align="center">
     <a href="https://github.com/gdavidev/">
     <img width="46.25%" src="https://github-readme-stats.vercel.app/api?username=gdavidev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true">
