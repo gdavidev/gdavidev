@@ -1,6 +1,5 @@
 ### Hi there 👋
 <div>
-  <samp>
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br>
@@ -14,7 +13,6 @@
       <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="azzar" height="30"></a>
       <br>
     </p>
-  </samp>
 </div>
 <!--
 **gdavidev/gdavidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
