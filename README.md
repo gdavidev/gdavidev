@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://github.com/gdavidev/">
     <img src="https://github-readme-stats.vercel.app/api?username=gdavidev&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
-    <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdavidev&amp;langs_count=6&amp;theme=dark&amp;layout=compact&amp;hide_border=true" alt="david :: overall Top Langs "></a>
+    <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdavidev&amp;langs_count=6&amp;theme=radical&amp;layout=compact&amp;hide_border=true" alt="david :: overall Top Langs "></a>
 </p>
 
 <div>
