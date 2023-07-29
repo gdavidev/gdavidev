@@ -1,4 +1,10 @@
 ### Hi there 👋
+
+<p align="center">
+    <a href="https://github.com/1999AZZAR/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: overall Top Langs "></a>
+</p>
+
 <div>
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
