@@ -9,9 +9,8 @@
 </p>
 
 <div>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">You can reach me by:</h2>
     <p align="center">
-    <br>
     <a href="https://www.linkedin.com/in/gdavidev/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="azzar" height="30"></a>
     <a href="mailto:gdavid.wk2202@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="azzar" height="30"></a>
 <a href="https://www.instagram.com/gabriel.david.david/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="azzar" height="30"></a>
