@@ -2,8 +2,8 @@
 
 <p align="center">
     <a href="https://github.com/gdavidev/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: overall Top Langs "></a>
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gdavidev;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdavidev&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: overall Top Langs "></a>
 </p>
 
 <div>
