@@ -30,10 +30,10 @@
 
 
 <h2>Statistics <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="21px" alt="Git"></h2>
-<p align="center">
+<p align="center" style="height: 20%">
     <a href="https://github.com/gdavidev/">
-    <img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=gdavidev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true">
-    <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdavidev&amp;langs_count=6&amp;theme=tokyonight&amp;layout=compact&amp;hide_border=true" alt="david :: overall Top Langs "></a>
+    <img style="height:100%" src="https://github-readme-stats.vercel.app/api?username=gdavidev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true">
+    <img style="height:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdavidev&amp;langs_count=6&amp;theme=tokyonight&amp;layout=compact&amp;hide_border=true" alt="david :: overall Top Langs "></a>
 </p>
 
 <h2>Reach me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="35px"></h2>
