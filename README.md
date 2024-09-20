@@ -43,9 +43,10 @@
 <b>Other</b>
 <p>        
     <img src="https://img.shields.io/badge/VB.NET-WindowsForms-gray?style=for-the-badge&logo=dotnet&logoColor=white&logoSize=auto&labelColor=%23672b7a" data-origin="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/Java-Swing-gray?style=for-the-badge&logoColor=white&logoSize=auto&labelColor=%23ED8B00" data-origin="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Java-Swing-grey?style=for-the-badge&logoColor=white&logoSize=auto&labelColor=%23ED8B00" data-origin="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" data-origin="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">        
 </p>
+    <img src="https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=black&logoSize=auto" data-origin="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
 
 <h2>OS <img src="https://th.bing.com/th/id/R.0fcbc1380014a0c504d7d76751da70c7?rik=wxoMNDUsaXZ60g&riu=http%3a%2f%2fwww.aaanimations.com%2fwindowsxpdog22dp.gif&ehk=iCg79Cf%2fkos%2fn%2fQHiuvRfhx9zMe8xX4tCz0kSx1IR0M%3d&risl=&pid=ImgRaw&r=0" width="21px"></h2>
 <p>
