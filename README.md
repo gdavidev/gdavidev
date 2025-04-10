@@ -1,9 +1,9 @@
-<h2>About me <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="21px"></h2>
+<h2>About me <img src="./wave.png" width="21px"></h2>
 <p>
     Hi! I’m a FullStack Web Developer, My goal is to put develop intelligent solutions aiming on effectiveness, agility and consistency, delivering the best of my capabilities.
 </p>
 
-<h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="21px"> </h2>
+<h2>Skills <img src="./visualization.png" width="25px"> </h2>
 <p></p>      
 <b>Front-end</b>
 <p>
@@ -44,22 +44,19 @@
     <img src="https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&amp;logo=c&amp;logoSize=auto&logoColor=%2300599C" alt="C">        
     <img src="https://img.shields.io/badge/Rust-%23323330?style=for-the-badge&logo=rust&logoColor=orange&logoSize=auto" alt="CSS3">
 </p>
-
-<h2>OS <img src="https://th.bing.com/th/id/R.0fcbc1380014a0c504d7d76751da70c7?rik=wxoMNDUsaXZ60g&riu=http%3a%2f%2fwww.aaanimations.com%2fwindowsxpdog22dp.gif&ehk=iCg79Cf%2fkos%2fn%2fQHiuvRfhx9zMe8xX4tCz0kSx1IR0M%3d&risl=&pid=ImgRaw&r=0" width="21px"></h2>
+<b>OS</b>
 <p>
     <img src="https://img.shields.io/badge/Ubuntu-%23323330?style=for-the-badge&amp;logo=ubuntu&amp;logoSize=auto&logoColor=E95420" alt="Ubuntu">
     <img src="https://img.shields.io/badge/Windows-%23323330?style=for-the-badge&amp;logoSize=auto&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAItJREFUOI3NkzEOgzAQBOcsC1p+EBfkfck36OAp/AeJJ6SH4lLQkCDWCYoUtjvfes/y3hrfYvSKeU6YXwiWTBKuZc8wtWBL7SSgWtNNEurCGCZXD4rADRwkbR/h2LUzCUTcG8nI9CMhPKRApq9t+sDG/3/iD1yATu16XqAu7i8n6zAtkAO2aczhLc5Peyg4Tws1v7gAAAAASUVORK5CYII=" alt="Windows">
 </p>
 
-<h2>Statistics <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="21px" alt="Git"></h2>
+<h2>Statistics <img src="./bar-chart.png" width="21px" alt="Bars"></h2>
 <p align="center">
-    <a href="https://github.com/gdavidev/">
-        <img style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdavidev&amp;langs_count=6&amp;theme=tokyonight&amp;layout=compact&amp;hide_border=true" alt="david :: overall Top Langs ">
-    </a>
+    <img style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdavidev&amp;langs_count=6&amp;theme=tokyonight&amp;layout=compact&amp;hide_border=true" alt="david :: overall Top Langs ">
     <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=gdavidev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true">
 </p>
 
-<h2>Reach me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="35px"></h2>
+<h2>Reach me <img src="./boss.png" width="21px"></h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/gdavidev/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAPNJREFUOI2d0z1KQ0EUhuFngkVAU6XxB12ACVjoDoKtleAOxK24DZfgRgQVLSRoI2opIopIPovcwE1UvPGrzpyfd2bOnCmQpI9l8+mxlHJZkvRwgTInIOi3qp0nxbe4aggoWGnVHE/oYWsOiIUZu43RjL8xoIsh3rDaFFC/wid2sYcHnGAHRzjAEjZwOkVIMshYHzXfXZLj2rqTpF2zX6uaQcsfSrJu/DrnSVqllBfcTOJNmrVt3J8uOnjG+089+E31nG/D1gTQmP4vTQ1SkmFlr+EwyT4WazlnSUZVHJQkm8afad7TjNAvUEEaT1+l+1LK9Resvl/RT98BZQAAAABJRU5ErkJggg==" alt="david" height="30"></a>
     <a href="mailto:gdavid.wk2202@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="azzar" height="30"></a>
