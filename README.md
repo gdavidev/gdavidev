@@ -19,10 +19,12 @@
 </p>
 <b>Back-end</b>
 <p>
-    <img src="https://img.shields.io/badge/VB.NET-WebForms-%23323330?style=for-the-badge&labelColor=%23672b7a" alt="VB.NET WebForms">
+    <img src="https://img.shields.io/badge/C%23.NET-API's-%23323330?style=for-the-badge&labelColor=%23672b7a" alt="VB.NET WebForms">
+    <img src="https://img.shields.io/badge/EF%20Core-%23323330?style=for-the-badge&logoColor=white&logo=gunicorn" alt="Entity Framework">
     <img src="https://img.shields.io/badge/Java--JSP-%23323330?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHaSURBVDiNnZDPS1RhFIbf8907olkg07WIJqMiQ4J02kQGoU3NLghyWrRp0SJFV00agf9AjDpEjSW4aO38A5YWQ7uISKpFP0SHIU1DJ0K00Pudt0VMJN6BybP8zvM95z0HqKDy6ejpcj1TiYCw8W0LZodarqlifVuCmXRLN6BxDTmjM4PR5iBGyn4eau4ncByKDIycOHJzajiIc4Me8+mTTUp78XCksXX2y8d3xVo3cHrZFZR2F4iXSGQVkN11qzz4X4JDkcbXAIBswkCYEthkxYJEYsw5P3XGW9G9dwqF6WPqY9yIvPnTpZy7nWltS454JX7TEeO3Hu7xjY4L5J7STlOxHKn6Xv/Vhquh0iCOO+HX+EVnlY+fpXo6tiR4OtD1bd1IDNB5h06NEWma8z0D6879MtVjk3dvFGSNpyiSC0wAALG+TLsS1wVY+HcAjT4JWXzyKQeeD/a8KCsAgPbe+5ddhN4Wf0i+zvsZthshyaW6F4LYv4JYX6YDxH6Ha6M+a8/CQZzkPgC+AV6F8/UPstkr9kLvo6MTqc7PAYLhSySvAliGYBHkImCWSBUY8YTYIYABZd4KJ0uJtqzQlhzxHGcjCpUGAoaCnSJcEpgVgK5V8yE30PW+xP8GAAi8yLprv94AAAAASUVORK5CYII=" alt="Java">
     <img src="https://img.shields.io/badge/Laravel-%23323330?style=for-the-badge&logo=laravel&logoSize=auto&logoColor=%23fe2d1f" alt="Laravel">
     <img src="https://img.shields.io/badge/PHP-%23323330?style=for-the-badge&logo=php&logoColor=%236181b6&logoSize=auto" alt="PHP">
+    <img src="https://img.shields.io/badge/VB.NET-WebForms-%23323330?style=for-the-badge&labelColor=%23672b7a" alt="VB.NET WebForms">
 </p> 
 <b>Databases</b>
 <p>        
